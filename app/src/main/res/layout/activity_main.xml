@@ -5,8 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.kshitijmittal.add2no.MainActivity">
-
-
     <RelativeLayout
         android:layout_width="344dp"
         android:layout_height="487dp"
